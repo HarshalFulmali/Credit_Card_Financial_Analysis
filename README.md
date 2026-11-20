@@ -1,4 +1,4 @@
- Credit Card Financial Analysis Dashboard – 2023
+# Credit Card Financial Analysis Dashboard – 2023
 
 ## Project Overview
 
@@ -191,7 +191,7 @@ Based on the analysis, the following major findings were identified:
 6. **Gender-Based Revenue:** Male customers generally contributed more revenue than female customers.
 7. **Geographical Performance:** Texas and New York were among the highest revenue-generating states.
 8. **Important Age Segment:** Customers aged 40–49 contributed the highest revenue.
-9. **Delinquency Monitoring:** A total of 614 customer accounts were identified as delinquent, making this an important area for further investigation.
+9. **Delinquency Monitoring:** A total of 614 customer(6.07%) accounts were identified as delinquent, making this an important area for further investigation.
 
 ---
 
@@ -209,5 +209,5 @@ The two Power BI dashboards help transform raw customer and transaction data int
 
 **Harshil Fulmali**
 
-Data Analysis | Python | SQL | Excel | Power BI
+Data Analysis | Python | Power BI
 
